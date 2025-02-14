@@ -1,8 +1,8 @@
 {
-  "name": "vmsz-portfolio",
+  "name": "portfolio",
   "homepage": "https://vmsz.github.io/portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

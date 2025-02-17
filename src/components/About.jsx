@@ -3,7 +3,7 @@ import { LiaLinkedinIn } from 'react-icons/lia'
 import { MdArticle } from 'react-icons/md'
 import { HiMiniArrowUpRight } from 'react-icons/hi2'
 import Avatar from '../assets/general/avatar.webp'
-import Curriculo from '../assets/general/curriculo.pdf'
+import Curriculo_Vinicius_Souza from '../assets/general/Curriculo_Vinicius_Souza.pdf'
 
 const About = () => {
   return (
@@ -35,7 +35,7 @@ const About = () => {
         <Anchor href='https://www.linkedin.com/in/vmsz/'>
           <LiaLinkedinIn size={24} />
         </Anchor>
-        <Anchor href={Curriculo}>
+        <Anchor href={Curriculo_Vinicius_Souza}>
           <MdArticle size={24} />
         </Anchor>
       </div>

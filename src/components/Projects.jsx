@@ -9,7 +9,7 @@ const Projects = () => {
         <Project
           date='12/2024 - 02/2025'
           name='Software Orso'
-          desc='Software orçamentista de engenharia. Contém um algoritmo de guias, salvar e carregar progresso, exportação em PDF e Excel, editor de composições e BDI.'
+          desc='Software orçamentista para obras. Contém um algoritmo de guias, salvar e carregar progresso, exportação em PDF e Excel, editor de composições e BDI.'
           href='https://github.com/vmsz/software-orso'
           thumbnail={SoftwareOrso}
         />
